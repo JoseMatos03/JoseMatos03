@@ -1,6 +1,6 @@
 ### Hi there, I'm Rodrigo 👋
 
-## I'm a Software Engineer Student
+## I'm a Software Engineer student at UMinho
 
 - 🔭 I’m currently learning literally everything
 - 🎮 I'm a certified gamer
