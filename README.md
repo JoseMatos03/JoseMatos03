@@ -19,8 +19,8 @@ debugging to taylor swift songs
 josematos@netrunner ~ % stack
 ```
 
-- typescript, go, python
-- next.js, tailwindcss, docker  
+- C languages, go, python  
+- all things web, backend & frontend  
 - currently messing with operating systems & cybersec tools  
 - prefer cli over gui
 
