@@ -1,8 +1,8 @@
 ```
-┌───────────────────────────────────────────────────────────────────────────────────────────┐
-│                                    j o s é   m a t o s                                    │
-│                               perfectionist. coder. student.                              │
-└───────────────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────┐
+│                            j o s é   m a t o s                            │
+│                       perfectionist. coder. student.                      │
+└───────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```
@@ -38,7 +38,7 @@ josematos@netrunner ~ % contacts
 ```
 
 > linkedin: https://www.linkedin.com/in/josematos03  
-> site: https://yourportfolio.dev  
+> site: to be continued...
 > mail: joser.fmatos03@gmail.com
 
 ```
