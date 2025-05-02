@@ -45,8 +45,9 @@ josematos@netrunner ~ % contacts
 josematos@netrunner ~ % quote    # yes it's a taylor quote
 ```
 
-> “so casually cruel in the name of being honest”    
-> — taylor swift, all too well    
+> “i rewind the tape but all it does is pause,    
+>  on the very moment all was lost."    
+> — taylor swift, evermore    
 
 ```
 josematos@netrunner ~ % snake
