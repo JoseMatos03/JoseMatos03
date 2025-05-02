@@ -21,7 +21,7 @@ josematos@netrunner ~ % stack
 
 - typescript, go, python
 - next.js, tailwindcss, docker  
-- currently messing with compilers & cybersec tools  
+- currently messing with operating systems & cybersec tools  
 - prefer cli over gui
 
 ```
