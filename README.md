@@ -38,7 +38,7 @@ josematos@netrunner ~ % contacts
 ```
 
 > linkedin: https://www.linkedin.com/in/josematos03  
-> site: to be continued...
+> site: to be continued...  
 > mail: joser.fmatos03@gmail.com
 
 ```
