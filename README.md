@@ -30,7 +30,7 @@ josematos@netrunner ~ % now-playing
 
 ┌─[now playing]  
 └──▶ a L O T of uni projects  
-└──▶ portfolio in cli style
+└──▶ portfolio in cli style  
 └──▶ tryhackme and exploitation  
 
 ```
@@ -42,12 +42,11 @@ josematos@netrunner ~ % contacts
 > mail: joser.fmatos03@gmail.com
 
 ```
-josematos@netrunner ~ % quote    # yes it's a taylor quote
+josematos@netrunner ~ % quote
 ```
 
-> “i rewind the tape but all it does is pause,    
->  on the very moment all was lost."    
-> — taylor swift, evermore    
+> “no happy endings in Night City"    
+> — johnny, cyberpunk: 2077    
 
 ```
 josematos@netrunner ~ % snake
