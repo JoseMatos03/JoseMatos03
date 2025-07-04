@@ -29,8 +29,8 @@ josematos@netrunner ~ % now-playing
 ```
 
 ┌─[now playing]  
-└──▶ tryhackme and exploitation  
-└──▶ malware analysis  
+└──> tryhackme and exploitation  
+└──> malware analysis  
 
 ```
 josematos@netrunner ~ % contacts
