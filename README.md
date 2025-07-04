@@ -29,9 +29,8 @@ josematos@netrunner ~ % now-playing
 ```
 
 ┌─[now playing]  
-└──▶ a L O T of uni projects  
-└──▶ portfolio in cli style  
 └──▶ tryhackme and exploitation  
+└──▶ malware analysis  
 
 ```
 josematos@netrunner ~ % contacts
@@ -63,6 +62,5 @@ josematos@netrunner ~ % snake
 josematos@netrunner ~ % exit
 ```
 
-logging out  
 Saving session...  
 ...complete.  
